@@ -5,7 +5,8 @@
 #
 # Copyright (C) 2020 KFERMercer
 #
-name: OpenWrt-CI
+
+name: OpenWrt-1
 
 on:
   schedule:
